@@ -2,6 +2,7 @@
 
 Implement following ComplexNumber class and write driver program to produce given sample output:
 
+```CPP
 class ComplexNumber
 {
 private:
@@ -19,5 +20,5 @@ public:
 	ComplexNumber Multiplication(ComplexNumber);
 	float Magnitude();
 };
-
+```
 ![OOP_-Assignment_4_88Fzc4C9wZ](https://user-images.githubusercontent.com/79744080/116788753-e3f92500-aac4-11eb-8e64-97b653269073.png)
